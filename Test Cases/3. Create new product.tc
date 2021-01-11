@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Create new product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>280e8758-9ea6-4d9e-a880-e350e2650954</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>4f5f7410-dcb0-4d1c-8bd0-87aa0ae33fda</id>
+      <masked>false</masked>
+      <name>needClose</name>
+   </variable>
+</TestCaseEntity>

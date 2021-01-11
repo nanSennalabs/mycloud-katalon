@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. User login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ed0c63e-4d9a-4672-b479-a98e59149556</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>3f864732-ae4a-4763-9bbc-11ef709fee92</id>
+      <masked>false</masked>
+      <name>needClose</name>
+   </variable>
+</TestCaseEntity>
