@@ -1,14 +1,45 @@
-\.classpath
+/bin/
 
-\.project
+.classpath
 
-\.settings/
+.project
+
+.settings/
 
 bin/lib/
 
 Libs/
 
-Reports/
+*.class
 
+*.log
 
-/bin/
+*.ctxt
+
+.mtj.tmp/
+
+*.jar
+
+*.war
+
+*.ear
+
+*.zip
+
+*.tar.gz
+
+*.rar
+
+hs_err_pid*
+
+Libs/TempTestCase*.groovy
+
+Libs/TempTempCase*.groovy
+
+Libs/TempTestSuite*.groovy
+
+Reports
+
+settings/internal/com.kms.katalon.integration.analytics.properties
+
+settings/internal/com.kms.katalon.integration.jira.properties
