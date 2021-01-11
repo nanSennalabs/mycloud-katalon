@@ -9,5 +9,8 @@ bin/lib/
 Libs/
 
 Reports/
-
-
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
